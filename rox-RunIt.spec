@@ -1,4 +1,3 @@
-%include  /usr/lib/rpm/macros.python
 %define _name RunIt
 Summary:	ROX-RunIt executes a single command
 Summary(pl):	ROX-RunIt wykonuje pojedyncz± komendê
