@@ -12,10 +12,10 @@ URL:		http://www.metabocks.com/rox/
 BuildRequires:	rpm-pythonprov
 Requires:	python-pygtk-gtk
 Requires:	rox-Lib
-%pyrequires_eq  python
+%pyrequires_eq	python
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define   _appsdir  %{_libdir}/ROX-apps
+%define		_appsdir	%{_libdir}/ROX-apps
 
 %description
 ROX-RunIt is a very simple application which was inspired by GNOME's
