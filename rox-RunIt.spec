@@ -9,7 +9,6 @@ Group:		X11/Applications
 Source0:	http://metabocks.port5.com/rox/runit.tar.gz
 # Source0-md5:	b56240a8a9d85ffa35535abf3eb659df
 URL:		http://www.metabocks.com/rox/
-BuildRequires:	rpm-pythonprov
 Requires:	python-pygtk-gtk
 Requires:	rox-Lib
 %pyrequires_eq	python
