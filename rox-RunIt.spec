@@ -19,13 +19,13 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define   _appsdir  %{_libdir}/ROX-apps
 
 %description
-ROX-RunIt is a very simple application which was inspired by Gnome's
+ROX-RunIt is a very simple application which was inspired by GNOME's
 Minicommander. Basically it executes a single command. In applet mode
 it creates a small window that sits on the ROX panel where you can
 type a command.
 
 %description -l pl
-ROX-RunIt jest bardzo prost± aplikacj± zainspirowan± przez Gnome
+ROX-RunIt jest bardzo prost± aplikacj± zainspirowan± przez GNOME
 Minicomandera. Program ten po prostu wykonuje pojedyncz± komendê. Jako
 aplet, tworzy on ma³e okienko na panelu ROXa, w którym mo¿esz wpisywaæ
 komendy.
