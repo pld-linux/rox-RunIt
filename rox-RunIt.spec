@@ -1,11 +1,10 @@
 %include  /usr/lib/rpm/macros.python
-%define _appsdir /usr/X11R6/share/ROX-apps
 %define _name RunIt
 Summary:	ROX-RunIt executes a single command
 Summary(pl):	ROX-RunIt wykonuje pojedyncz± komendê
 Name:		rox-%{_name}
 Version:	0.9.5
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.speakeasy.org/~pngwen/rox/runit.tar.gz
@@ -18,6 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_prefix		/usr/X11R6
 %define		_mandir		%{_prefix}/man
+%define   _appsdir  %{_libdir}/ROX-apps
 
 %description
 ROX-RunIt is a very simple application which was inspired by Gnome's
