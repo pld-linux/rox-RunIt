@@ -7,8 +7,8 @@ Version:	0.9.5
 Release:	2
 License:	GPL
 Group:		X11/Applications
-Source0:	http://www.speakeasy.org/~pngwen/rox/runit.tar.gz
-# Source0-md5:	6fe39f6e477c0bce3a949bbc73898a70
+Source0:	http://metabocks.port5.com/rox/runit.tar.gz
+# Source0-md5:	b56240a8a9d85ffa35535abf3eb659df
 URL:		http://www.metabocks.com/rox
 BuildRequires:	rpm-pythonprov
 Requires:	python-pygtk
