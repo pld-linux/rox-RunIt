@@ -1,6 +1,6 @@
 %define _name RunIt
 Summary:	ROX-RunIt executes a single command
-Summary(pl):	ROX-RunIt wykonuje pojedyncz± komendê
+Summary(pl.UTF-8):   ROX-RunIt wykonuje pojedynczÄ… komendÄ™
 Name:		rox-%{_name}
 Version:	0.9.5
 Release:	3
@@ -22,10 +22,10 @@ Minicommander. Basically it executes a single command. In applet mode
 it creates a small window that sits on the ROX panel where you can
 type a command.
 
-%description -l pl
-ROX-RunIt jest bardzo prost± aplikacj± zainspirowan± przez GNOME
-Minicomandera. Program ten po prostu wykonuje pojedyncz± komendê. Jako
-aplet, tworzy on ma³e okienko na panelu ROXa, w którym mo¿esz wpisywaæ
+%description -l pl.UTF-8
+ROX-RunIt jest bardzo prostÄ… aplikacjÄ… zainspirowanÄ… przez GNOME
+Minicomandera. Program ten po prostu wykonuje pojedynczÄ… komendÄ™. Jako
+aplet, tworzy on maÅ‚e okienko na panelu ROXa, w ktÃ³rym moÅ¼esz wpisywaÄ‡
 komendy.
 
 %prep
