@@ -1,6 +1,6 @@
 %define _name RunIt
 Summary:	ROX-RunIt executes a single command
-Summary(pl.UTF-8):   ROX-RunIt wykonuje pojedynczą komendę
+Summary(pl.UTF-8):	ROX-RunIt wykonuje pojedynczą komendę
 Name:		rox-%{_name}
 Version:	0.9.5
 Release:	3
